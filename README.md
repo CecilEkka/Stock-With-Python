@@ -15,7 +15,7 @@ This graph displays the historical share price of Tesla (TSLA). The x-axis repre
 
 ### GameStop Historical Share Price
 
-![GameStop Historical Share Price](gamestop_stock_chart.png)
+![GameStop Historical Share Price](https://github.com/CecilEkka/Stock-With-Python/blob/main/Result_Images/newplot%20(1).png)
 
 This graph illustrates the historical share price of GameStop (GME). Similar to the Tesla chart, it plots price against date with an interactive rangeslider. The graph notably captures the dramatic spike in GME's stock price, reflecting its high volatility.
 
